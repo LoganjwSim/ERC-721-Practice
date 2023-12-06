@@ -1,0 +1,23 @@
+{
+  "name": "Starbucks",
+  "description": "Counting Star!",
+  "image": "https://tan-rational-goat-745.mypinata.cloud/ipfs/QmRavdhEZrUpwTRJxkSjhQwazSTHRNXFvKFHsR4Ln95isW",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cafe"
+    },
+    {
+      "trait_type": "Coffee",
+      "value": "Americano"
+    },
+    {
+      "trait_type": "Taste",
+      "value": "suck"
+    },
+    {
+      "trait_type": "Topping",
+      "value": "Ice"
+    }
+  ]
+}

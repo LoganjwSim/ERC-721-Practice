@@ -1,0 +1,23 @@
+{
+  "name": "CheeseBurger",
+  "description": "CheeseBurger - Happiness!",
+  "image": "https://tan-rational-goat-745.mypinata.cloud/ipfs/QmfRZKiUTFKBHVypsQLdQRMXpw1XtXigC76Vo1QSUNYWcL",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "White"
+    },
+    {
+      "trait_type": "Bread",
+      "value": "buns"
+    },
+    {
+      "trait_type": "Taste",
+      "value": "Delicious"
+    },
+    {
+      "trait_type": "Topping",
+      "value": "Cheese"
+    }
+  ]
+}
